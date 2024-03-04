@@ -5,6 +5,7 @@ Instructions on how to install comfy ui for intel arc for  ubuntu 23
 
 On a fresh ubuntu 23 install do the following
 follow instructions here https://github.com/vladmandic/automatic/wiki/Intel-ARC
+
 `sudo apt update && sudo apt install -y ca-certificates wget gpg`
 
 `wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | sudo gpg --dearmor --output /usr/share/keyrings/intel-graphics.gpg`
