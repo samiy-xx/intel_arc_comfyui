@@ -39,5 +39,4 @@ run comfy with
 this makes comfy run. Atleast i was able to use sdxl and sdxl turbo, control net and some  depth map and canny nodes.
 ip-adapter, instantid and reactor was a crash
 
-
-
+Patch for memory issue https://github.com/comfyanonymous/ComfyUI/discussions/476#discussioncomment-7338819
