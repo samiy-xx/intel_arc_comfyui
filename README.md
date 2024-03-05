@@ -19,6 +19,7 @@ follow instructions here https://github.com/vladmandic/automatic/wiki/Intel-ARC
 If running this on your home directory, do the following.
 
 git clone https://github.com/comfyanonymous/ComfyUI.git comfy
+
 cd comfy
 
 `python3 -m venv venv`
