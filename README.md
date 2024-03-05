@@ -40,7 +40,7 @@ run comfy with
 `nice -n 19 ipexrun xpu main.py --highvram --use-pytorch-cross-attention --bf16-unet --bf16-vae`
 
 this makes comfy run. Atleast i was able to use sdxl and sdxl turbo, control net and some  depth map and canny nodes.
-ip-adapter, instantid and reactor was a crash
+ip-adapter, instantid and reactor work after memory issue patch
 
 Patch for memory issue https://github.com/comfyanonymous/ComfyUI/discussions/476#discussioncomment-7338819
 
