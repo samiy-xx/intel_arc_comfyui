@@ -16,8 +16,10 @@ follow instructions here https://github.com/vladmandic/automatic/wiki/Intel-ARC
 
 `sudo apt-get install intel-opencl-icd intel-level-zero-gpu level-zero git python3-pip python3-venv libgl1 libglib2.0-0 libgomp1 libjemalloc-dev`
 
-git clone comfy
-cd into comfy
+If running this on your home directory, do the following.
+
+git clone https://github.com/comfyanonymous/ComfyUI.git comfy
+cd comfy
 
 `python3 -m venv venv`
 
