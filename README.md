@@ -43,3 +43,5 @@ this makes comfy run. Atleast i was able to use sdxl and sdxl turbo, control net
 ip-adapter, instantid and reactor was a crash
 
 Patch for memory issue https://github.com/comfyanonymous/ComfyUI/discussions/476#discussioncomment-7338819
+
+Have to use the correct version of the file https://github.com/vladmandic/automatic/blob/343e0dcd1713423c124cfb63bb5d664e150a5df9/modules/intel/ipex/attention.py
