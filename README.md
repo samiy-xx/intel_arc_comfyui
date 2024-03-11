@@ -1,9 +1,10 @@
 # intel_arc_comfyui
-Instructions on how to install comfy ui for intel arc for  ubuntu 23
+Instructions on how to install comfy ui for intel arc on fresh install of Ubuntu 23
 
 
 
 On a fresh ubuntu 23 install do the following
+
 follow instructions here https://github.com/vladmandic/automatic/wiki/Intel-ARC
 
 `sudo apt update && sudo apt install -y ca-certificates wget gpg`
